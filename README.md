@@ -1,14 +1,17 @@
-# 🛍️ AI-Driven LTV Profitability Dashboard
+![Screenshot 2025-06-15 023040](https://github.com/user-attachments/assets/d7d29634-a082-4121-9407-523ce754a339)# 🛍️ AI-Driven LTV Profitability Dashboard
 
 An end-to-end production-grade project that predicts customer lifetime value (LTV) and calculates marketing profitability using real-world e-commerce data.
 
-![Streamlit Screenshot](./screenshot.png)
+ ![Screenshot 2025-06-15 023103](https://github.com/user-attachments/assets/14206bb4-8e14-4729-8408-55582a712b26)![Screenshot 2025-06-15 023128](https://github.com/user-attachments/assets/b7a2cff7-7089-445f-8a9a-b5109d1c70aa)
+
 
 ---
 
 ## 🚀 What This Project Does
 
-✅ Predicts future LTV using RFM features + ML  
+✅ Predicts future LTV using RFM features + ML 
+
+
 ✅ Calculates CAC, margin, and LTV:CAC ratios  
 ✅ Segments customers into High / Break-even / Low ROI  
 ✅ Visual dashboard built in Streamlit  
