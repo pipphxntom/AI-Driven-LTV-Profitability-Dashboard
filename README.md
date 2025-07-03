@@ -1,3 +1,33 @@
+![ChatGPT Image Jul 3, 2025, 03_26_37 PM](https://github.com/user-attachments/assets/585d5df7-2e1b-407a-9709-e8c53bb37a19)
+
+🚀 CRM Data Champion – Funnel Optimization & LTV-CAC Analytics
+Optimize customer acquisition, reduce CAC, and maximize profitability with structured CRM logic and intelligent nurturing.
+
+🔧 Project Overview
+This project simulates the role of a Growth Partner brought in to fix CRM chaos for a high-potential MSME moving from founder-led to scalable sales. We:
+
+Designed a complete B2B SaaS sales funnel
+
+Structured CRM fields, automations, and dashboards
+
+Built data-driven LTV:CAC profitability analysis
+
+Created a Streamlit dashboard for customer insights
+
+Designed scalable nurturing workflows based on lead intent
+
+Developed a CAC optimization plan based on real funnel analytics
+
+💡 Features
+🔄 Funnel stage logic: Lead → MQL → SQL → Bonus Stage → Customer
+
+📊 Streamlit LTV dashboard (search, segments, channels)
+
+🧠 AI-driven nurturing tracks (ChatGPT + custom personalization)
+
+📉 CAC:Dashboard + Optimization Experiments
+
+📂 CRM Template with role-specific views
 ![Screenshot 2025-06-15 023040](https://github.com/user-attachments/assets/d7d29634-a082-4121-9407-523ce754a339)# 🛍️ AI-Driven LTV Profitability Dashboard
 
 An end-to-end production-grade project that predicts customer lifetime value (LTV) and calculates marketing profitability using real-world e-commerce data.
