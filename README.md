@@ -1,4 +1,3 @@
-![ChatGPT Image Jul 3, 2025, 03_26_37 PM](https://github.com/user-attachments/assets/585d5df7-2e1b-407a-9709-e8c53bb37a19)
 
 🚀 CRM Data Champion – Funnel Optimization & LTV-CAC Analytics
 Optimize customer acquisition, reduce CAC, and maximize profitability with structured CRM logic and intelligent nurturing.
